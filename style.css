@@ -1,0 +1,9 @@
+body{
+   font-family: 'Roboto';
+}
+
+
+header,footer, .heroSection{
+    background-color: #1f2937;
+    color: white;
+}
