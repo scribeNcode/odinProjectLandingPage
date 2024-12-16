@@ -159,3 +159,11 @@ header,footer, .heroSection{
     border-radius: 0.5rem;
 }
 
+
+/* footer section */
+
+footer{
+    text-align: center;
+    padding: 3rem;
+    font-size: 18px;
+}
